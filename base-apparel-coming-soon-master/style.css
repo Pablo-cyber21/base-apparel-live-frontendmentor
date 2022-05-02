@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 2.55em;
+    padding: 1em 2em;
+    font-weight: 200;
+}
+
+input{
+    padding: 11.95px 70px 8px 70px;
+    border-radius: 25px;
+}
+
+.main{
+    text-align: center;
+}
+
+.logo{
+    padding: 2em 3em;
+    width: 50%;
+    max-width: 100%;
+}
+
+.hero-mobile{
+    width: 102%;
+    max-width: 100%;
+}
+
+.main-text{
+    line-height: 1.66em;
+    padding: 1em 5em;
+    color:hsl(0, 93%, 68%);
+}
+
+.submit{
+    padding:8px 17px 8px   17px ;
+    border-radius: 25px 25px 25px 25px;
+    margin-left: -64px;
+    background-color: hsl(0, 36%, 70%);
+    border: none;
+    outline: none;
+}
+
+.send{
+    padding: 1px 10px 0px  10px;
+    
+}
